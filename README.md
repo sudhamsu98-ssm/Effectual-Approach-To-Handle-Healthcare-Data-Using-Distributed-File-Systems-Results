@@ -1,2 +1,2 @@
 # Effectual-Approach-To-Handle-Healthcare-Data-Using-Distributed-File-Systems-Results
- Resutls
+ Refer the software manual for understanding.
